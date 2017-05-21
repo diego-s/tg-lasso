@@ -1,0 +1,11 @@
+Package: tg.lasso
+Title: What the Package Does (one line, title case)
+Version: 0.0.0.9000
+Authors@R: 'Diego Saldana Miranda <dummy@example.com> [aut, cre]'
+Description: What the package does (one paragraph).
+Depends: methods
+License: GPL-3
+LazyData: true
+Maintainer: 'Dummy' <dummy@example.com>
+Author: Diego Saldana Miranda
+Packaged: 2017-05-21 20:15:11 UTC; saldadi2
